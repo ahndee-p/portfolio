@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and RSS feeds. Make it clear and engaging!
 baseurl: "/portfolio" # correct for GitHub project pages
 url: "https://ahndee-p.github.io" # replace yourusername with your GitHub username
+repository: ahndee-p/portfolio
 twitter_username: yourusername
 github_username: yourusername
 
